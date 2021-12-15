@@ -17,6 +17,8 @@ loginctl enable-linger USERNAME
 
 - Log out and/or restart.
 
+- Log in as the non-root user.
+
 - Create a directory you want to store the wallpapers in.
 
 - Edit `bing_wallpaper.py`. Change the BACKGROUNDS_DIRECTORY variable value to
