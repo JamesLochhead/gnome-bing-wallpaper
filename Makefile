@@ -1,4 +1,5 @@
 install:
+	mkdir -p ~/Pictures/Bing
 	chmod u+x systemd-timer.sh
 	./systemd-timer.sh
 uninstall:
